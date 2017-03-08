@@ -1,6 +1,8 @@
 '''
 Find all anagrams from a dictionary file
+
 Find tuples of anagrams
+Calculate Levenshtein distance for word combinations and pick the highest ones
 
 '''
 
